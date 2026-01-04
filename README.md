@@ -26,5 +26,5 @@ This repository tracks my journey learning JavaScript from scratch. I'm working 
 Coding every day, making consistent commits to track progress!
 
 ---
-**Started:** December 2024  
+**Started:** December 2025
 **Target:** Job-ready in 6 months
